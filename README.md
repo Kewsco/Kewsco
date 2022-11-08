@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Kewsco
 - 👀 I’m interested in a variety of computer science topics.
 - 🌱 I’m currently learning C# and the .NET framework.
 - 📫 How to reach me marsh.dillon@outlook.com
