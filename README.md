@@ -1,5 +1,5 @@
 - 👀 I’m interested in a variety of computer science topics.
-- 🌱 I’m currently learning C# and the .NET framework.
+- 🌱 I’m currently learning Java/Swift
 - 📫 How to reach me marsh.dillon@outlook.com
 
 <!---
